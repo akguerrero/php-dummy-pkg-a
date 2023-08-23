@@ -4,6 +4,6 @@
     "type": "library",
     "license": "MIT",
     "require": {
-        "php": "6.0.0"
+        "php": "4.4.8"
     }
 }
