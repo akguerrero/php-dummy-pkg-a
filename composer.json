@@ -3,5 +3,7 @@
     "description": "A dummy package for testing Dependabot",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "require": {
+        "php": "1.0"
+    }
 }
